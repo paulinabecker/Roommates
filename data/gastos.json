@@ -1,0 +1,22 @@
+{
+  "gastos": [
+    {
+      "id": "5761591f-1458-46b5-bc8b-3a047c283b00",
+      "roommate": "Akseli Honkala",
+      "descripcion": "Artículos de limpieza",
+      "monto": 15000
+    },
+    {
+      "id": "a6db1df5-94fc-4247-a3bd-3d4b24d5b541",
+      "roommate": "Floyd Neal",
+      "descripcion": "Arreglo terraza",
+      "monto": 39000
+    },
+    {
+      "id": "43bf7625-f51e-4563-bf2b-55d31a8a59e6",
+      "roommate": "Mia Montgomery",
+      "descripcion": "arreglo baño",
+      "monto": 15000
+    }
+  ]
+}
