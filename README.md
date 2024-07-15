@@ -2,12 +2,9 @@
 
 Descripción
 
-Es bien sabido que entre las mejores recomendaciones que un programador amateur puede
-recibir para mejorar sus habilidades es “crear aplicaciones”, sin darle tanta importancia a la
-temática a elaborar, sino que solo basta con un problema para desarrollar una solución digital.
-En esta prueba deberás crear un servidor con Node que sirva una interfaz HTML y cuya temática está basada en el registro de gastos entre roommates.
+Crear un servidor con Node que sirva una interfaz HTML y cuya temática está basada en el registro de gastos entre roommates.
 
-Además deberás servir una API REST que permita hacer lo siguiente:
+Además, servir una API REST que permita hacer lo siguiente:
 ● Almacenar roommates nuevos ocupando random user.
 ● Devolver todos los roommates almacenados.
 ● Registrar nuevos gastos.
@@ -15,7 +12,7 @@ Además deberás servir una API REST que permita hacer lo siguiente:
 ● Modificar la información correspondiente a un gasto.
 ● Eliminar gastos del historial.
 
-Rutas que debes crear en tu servidor:
+Rutas a crear en el servidor:
 ● / GET: Debe devolver el documento HTML disponible en el apoyo.
 ● /roommate POST: Almacena un nuevo roommate ocupando random user.
 ● /roommate GET: Devuelve todos los roommates almacenados.
